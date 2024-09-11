@@ -1,0 +1,68 @@
+body{
+    font-family: arial;
+    color: grey;
+    background-color: #040404;
+    margin: unset;
+    padding-bottom: 2%;
+}
+.banner{
+    /* background-image: url(images/banner1.svg); */
+    background-size: cover;
+    background-position: center;
+    height: 18em;
+}
+.left-img{
+    margin-left: 3em;
+    margin-top: 3em;
+    width: 12em;
+    display: inline-block;
+    
+    margin-right: 1em;
+
+}
+.left-banner{
+    margin-top: 1em;
+    float: left;
+    margin-left: 3em;
+}
+.heading{
+    display: inline-block;
+}
+.main-section{
+    margin: auto;
+    width: 80%;
+}
+table{
+    text-align: left;
+}
+th{
+    padding: 2em;
+    padding-left: 1.2em;
+    font-size: large;
+}
+.song-number{
+    width: 20px;
+    border-bottom: 2px solid grey;
+}
+.song-title{
+    width: 550px;
+    border-bottom: 2px solid grey;
+}
+.song-artist{
+    width: 250px;
+    border-bottom: 2px solid grey;
+}
+.song-duration{
+    width: 100px;
+    border-bottom: 2px solid grey;
+}
+td{
+    padding: 1.2em;
+}
+tr:hover{
+    color: white;
+}
+.controls img{
+    margin-top: 1em;
+    width: 3.5em;
+}
