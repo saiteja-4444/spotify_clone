@@ -1,1 +1,1 @@
-<h1 align=center> SPOTIFY CLONE</h1>
+<h1 align=center> spotify clone</h1>
